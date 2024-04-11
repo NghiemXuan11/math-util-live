@@ -262,6 +262,26 @@ NGƯỜI KHÁC DO 2 NGƯỜI CÙNG SỬA 1 TẬP TIN, TA SẼ GẶP THƯỜNG XU
    markdown mastering ->> trang trí repository
      
 
+===========================================
+*Trang trí github profile
 
+…or create a new repository on the command line
+echo "# NghiemXuan11" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NghiemXuan11/NghiemXuan11.git
+git push -u origin main
 
+…or push an existing repository from the command line
+git remote add origin https://github.com/NghiemXuan11/NghiemXuan11.git
+git branch -M main
+git push -u origin main
+
+Vào link sau để tham khảo profile đẹp
+https://github-profile-maker.vercel.app/
+Format link stack overflow
+https://stk.so/
+https://stk.so/nghiemxuan11
 
