@@ -285,3 +285,9 @@ Format link stack overflow
 https://stk.so/
 https://stk.so/nghiemxuan11
 
+*Vao Credential Manager tren windows de xoa tai khoan Git hub cu
+*Tai LFS tre gitHUb khi lam viec voi file co kich thuoc lon:
++ 1. download git lfs
++ 2. vào folder chưa file bự
++ 3. gõ lệnh git lfs track "tên file" hoặc ".đuôi file"
++ 4. commit và push lên như bth
